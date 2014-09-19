@@ -25,5 +25,4 @@ public class MListBoxCustomAppearance implements MListBoxAppearance {
   public MListBoxCss css() {
     return Resources.INSTANCE.css();
   }
-
 }

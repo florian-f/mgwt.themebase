@@ -13,6 +13,7 @@ public class GroupingCellListCustomAppearance extends CellListCustomAppearance i
 
   static {
     Resources.INSTANCE.css().ensureInjected();
+    Resources.INSTANCE.groupCss().ensureInjected();
   }
 
   interface Css extends CellListCss {}

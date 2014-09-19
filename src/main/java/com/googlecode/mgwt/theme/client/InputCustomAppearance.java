@@ -25,5 +25,4 @@ public class InputCustomAppearance implements InputAppearance {
   public InputCss css() {
     return Resources.INSTANCE.css();
   }
-
 }

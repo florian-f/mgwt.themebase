@@ -29,7 +29,7 @@ public class DialogPanelCustomAppearance extends DialogPanelAbstractAppearance {
     @Source({"com/googlecode/mgwt/ui/client/widget/dialog/panel/dialog.css", "css/dialog.css"})
     CssDialog cssPanel();
 
-    @Source({"com/googlecode/mgwt/ui/client/widget/dialog/overlay/dialog-overlay.css", "css/dialog.css"})
+    @Source({"com/googlecode/mgwt/ui/client/widget/dialog/overlay/dialog-overlay.css", "css/dialog-overlay.css"})
     OverlayCss overlay();
   }
 
